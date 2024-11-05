@@ -1,6 +1,7 @@
 # Delivery-System-Program
 A javaFX project about a company's delivery system with an SQLite database
-Course: ICS 321
+<br>
+Course: ICS 321 - Database Systems
 
 
 
